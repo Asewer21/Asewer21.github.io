@@ -31,7 +31,10 @@ li{
     display: inline-block;
     width: 24%;
     background-color: red;
-
+    color:#ffff ;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
 }
 ol{
         margin: 0%;
