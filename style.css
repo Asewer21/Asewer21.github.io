@@ -65,24 +65,3 @@ a{
     text-overflow: inherit;
     color: #ffff;
 }
-
-/* Móviles */
-body {
-  font-size: 14px;
-}
-
-
-/* Pantallas desde 768px en adelante */
-@media (min-width: 768px) {
-}
-
-
-   /* Desde 1024px en adelante*/
-
-@media (min-width: 1024px) {
-}
-
-/* Desde 1440px en adelante */
-@media (min-width: 1440px) {
-/* Para monitores muy grandes */
-}
