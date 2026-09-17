@@ -8,18 +8,9 @@ h1{
     color: #ffff;
 }
 
-#ash{
+.ash{
     width: 484px;
     height: 352px;
-}
-
-#ash{
-    width: 484px;
-    height: 352px;
- hover {
-    transform: scale(1.1); /* Aumenta el tamaño de la imagen al pasar el mouse */
-    transition: transform 0.3s ease; /* Suaviza la transición */
-  } 
 }
 
 li{
@@ -53,6 +44,6 @@ a{
 }
 
 .pokeball{
-    height: 50px;
-    width: 50px;
+    height: 45px;
+    width: 45px;
 }
