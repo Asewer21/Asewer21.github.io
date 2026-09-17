@@ -1,6 +1,39 @@
 #titulo{
     color: #FFCA02;
     -webkit-text-stroke: 2px #306FB6;
+    text-align: center;
 }
 
-    
+h1 {
+    text-align: center;
+}
+
+#ash{
+    width: 484px;
+    height: 352px;
+}
+
+#parrafo1{
+    text-align: justify;
+}
+
+#ash{
+  display: block;   /* Hace que la imagen actúe como un bloque */
+  margin: 0 auto;   /* Centra la imagen horizontalmente */
+  max-width: 100%;  /* Opcional: evita que la imagen se salga de la pantalla */
+  height: auto;     /* Opcional: mantiene la proporción de la imagen */
+ hover {
+    transform: scale(1.1); /* Aumenta el tamaño de la imagen al pasar el mouse */
+    transition: transform 0.3s ease; /* Suaviza la transición */
+  } 
+}
+li{
+    display: inline-block;
+    width: 24%;
+    background-color: red;
+
+}
+ol{
+        margin: 0%;
+    padding: 0%;
+}
