@@ -1,34 +1,27 @@
-.titulo{
+span{
     color: #FFCA02;
     -webkit-text-stroke: 2px #306FB6;
-    text-align: center;
+    font-size: larger;
 }
 
-h1 {
-    text-align: center;
-}
-
-#ash{
-    width: 484px;
-    height: 352px;
-}
-
-#parrafo1{
-    text-align: justify;
+h1{
+    color: #ffff;
 }
 
 #ash{
     width: 484px;
     height: 352px;
-    display: block;   /* Hace que la imagen actúe como un bloque */
-    margin: 0 auto;   /* Centra la imagen horizontalmente */
-    max-width: 100%;  /* Opcional: evita que la imagen se salga de la pantalla */
-    height: auto;     /* Opcional: mantiene la proporción de la imagen */
+}
+
+#ash{
+    width: 484px;
+    height: 352px;
  hover {
     transform: scale(1.1); /* Aumenta el tamaño de la imagen al pasar el mouse */
     transition: transform 0.3s ease; /* Suaviza la transición */
   } 
 }
+
 li{
     display: inline-block;
     width: 24%;
@@ -38,7 +31,18 @@ li{
     font-weight: bolder;
     font-size: x-large;
 }
+
 ol{
-        margin: 0%;
+    margin: 0%;
     padding: 0%;
+}
+
+footer{
+    background-color: red;
+    color: #ffff;
+    font-size: x-large;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/8094992.gif);
 }
