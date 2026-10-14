@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://asewer21.github.io/</loc>
+       <lastmod>2026-10-07T10:42:55+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://asewer21.github.io/index.html</loc>
+       <lastmod>2026-10-07T10:42:55+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://asewer21.github.io/asociados.html</loc>
+       <lastmod>2026-10-07T10:42:55+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://asewer21.github.io/juegos</loc>
+       <lastmod>2026-10-07T10:42:55+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://asewer21.github.io/anime</loc>
+       <lastmod>2026-10-07T10:42:55+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://asewer21.github.io/showdown</loc>
+       <lastmod>2026-10-07T10:42:55+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://asewer21.github.io/asesoramiento</loc>
+       <lastmod>2026-10-07T10:42:55+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
