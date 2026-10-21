@@ -36,15 +36,22 @@ ol{
 }
 
 footer{
-    background-color: #fd1401;
-    color: #ffff;
+    background-color:(255, 1, 0);
+    color:white;
     font-size: x-large;
-    height: 200px;
+    height: 50px;
+    text-align: center;
 }
 
 body{
-    background-image: url(https://wallpaperaccess.com/full/8094992.gif);
+  background-image: url(fondo_pokeball_animado.webp);
+  background-size: cover;       
+  background-position: center;   
+  background-repeat: no-repeat; 
+  background-attachment: fixed;  
+  min-height: 100vh;
 }
+
 
 a{
     text-decoration: none;
@@ -58,7 +65,7 @@ a{
 
 .parrafo{
     font-size: xx-large;
-    color: red;
+    color: white;
     font-weight: bold;
 }
 
@@ -73,13 +80,19 @@ li:hover{
 }
 .pshowdown{
     color: white;
-    text-align: right;
+    text-align: left;
 }
 
-.contenedorpokemon {
-  display: flex;
-  align-items: center; 
-  gap: 15px; 
+.iposh {
+    width: 600px;
+    height: 370px;
+    border: solid 4px black;
+}
+
+.blanco {
+    color: white;
+    font-weight: bold;
+    
 }
 
 
